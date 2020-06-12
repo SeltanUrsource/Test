@@ -1,7 +1,6 @@
 # hello, This is Markdown Live Preview
 
 ## what is Markdown?
----
 
 **see [Wikipedia](https://www.wikipedia.org/ "Wikipedia")**
 
