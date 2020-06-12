@@ -26,7 +26,6 @@ __strong__
 
 [links](https://www.google.co.in/ "links")
 
-<br/>
 
 ##changelog
 * 17-Feb-2013 re-design
