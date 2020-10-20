@@ -4,7 +4,7 @@
 ## How Has This Been Tested?
 No crash report or errors found while unit testing after code review.
 
-##Types of Changes
+## Types of Changes
 - [ ] Bug fix
 - [ ] New Feature
 
