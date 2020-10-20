@@ -1,4 +1,4 @@
-# hello, This is Markdown Live Preview
+# hello, This is Markdown Live Preview.
 
 ## what is Markdown?
 
